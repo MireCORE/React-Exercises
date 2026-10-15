@@ -1,8 +1,7 @@
-import UserCard from "./Exercises/Exercise1"
-
+import Blog from './Exercises/Exercise2/BlogLayout'
 function App(){
   return(
-    <UserCard/>
+    <Blog/>
   )
 };
 
