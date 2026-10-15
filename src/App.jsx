@@ -8,6 +8,18 @@ function App(){
       name={"Mire"}
       email={`mire-core@gmail.com`}
       />
+      <UserCard
+      name={"Yacquub"}
+      email={`yacquub-mire@gmail.com`}
+      />
+      <UserCard
+      name={"Axmed"}
+      email={`axmed-cali@gmail.com`}
+      />
+      <UserCard
+      name={"Maxamed"}
+      email={`Maxamed-mire@gmail.com`}
+      />
     </>
   )
 };
