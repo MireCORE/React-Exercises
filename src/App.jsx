@@ -1,7 +1,14 @@
-import Blog from './Exercises/Exercise2/BlogLayout'
+import UserCard from "./Exercises/Exercise3/UserCard"
+
+
 function App(){
   return(
-    <Blog/>
+    <>
+      <UserCard
+      name={"Mire"}
+      email={`mire-core@gmail.com`}
+      />
+    </>
   )
 };
 
