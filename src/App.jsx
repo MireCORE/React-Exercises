@@ -1,7 +1,7 @@
-import ToggleButton from "./Exercises/Exercise4/ToggleButton"
+import ShoppingCart from "./Exercises/Exercise5/ShoppingCart"
 
 function App(){
-  return <ToggleButton/>
+  return <ShoppingCart/>
 };
 
 export default App
