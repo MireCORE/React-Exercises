@@ -1,6 +1,7 @@
-import ChangingTitle from "./Exercises/Exercise6/ChangingTitle";
+import MouseDistnation from "./Exercises/Exercise7/MouseDistnation";
+
 function App() {
-  return <ChangingTitle />;
+  return <MouseDistnation />;
 }
 
 export default App;
