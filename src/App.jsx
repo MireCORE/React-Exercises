@@ -1,7 +1,6 @@
-import ShoppingCart from "./Exercises/Exercise5/ShoppingCart"
+import ChangingTitle from "./Exercises/Exercise6/ChangingTitle";
+function App() {
+  return <ChangingTitle />;
+}
 
-function App(){
-  return <ShoppingCart/>
-};
-
-export default App
+export default App;
