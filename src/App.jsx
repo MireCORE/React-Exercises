@@ -1,7 +1,7 @@
-import MouseDistnation from "./Exercises/Exercise7/MouseDistnation";
+import CountingDownTimer from "./Exercises/Exercise8/CountingDownTime";
 
 function App() {
-  return <MouseDistnation />;
+  return <CountingDownTimer />;
 }
 
 export default App;
