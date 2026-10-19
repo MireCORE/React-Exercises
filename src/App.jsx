@@ -1,7 +1,7 @@
-import CountingDownTimer from "./Exercises/Exercise8/CountingDownTime";
+import DateFetch from "./Exercises/Exercise9/DateFetch";
 
 function App() {
-  return <CountingDownTimer />;
+  return <DateFetch />;
 }
 
 export default App;
