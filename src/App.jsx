@@ -1,7 +1,7 @@
-import DateFetch from "./Exercises/Exercise9/DateFetch";
+import UserList from "./Exercises/Exercise10/UserList";
 
 function App() {
-  return <DateFetch />;
+  return <UserList />;
 }
 
 export default App;
