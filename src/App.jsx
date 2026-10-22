@@ -1,7 +1,7 @@
-import Count from "./Exercises/Exercise12/Count";
+import Counter from "./Exercises/Exercise13/Counter";
 
 function App() {
-  return <Count />;
+  return <Counter />;
 }
 
 export default App;
