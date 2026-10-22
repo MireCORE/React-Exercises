@@ -1,7 +1,7 @@
-import LoginState from "./Exercises/Exercise11/Login";
+import Count from "./Exercises/Exercise12/Count";
 
 function App() {
-  return <LoginState />;
+  return <Count />;
 }
 
 export default App;
