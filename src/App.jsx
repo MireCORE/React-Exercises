@@ -1,7 +1,7 @@
-import Counter from "./Exercises/Exercise13/Counter";
+import MultiStepForm from "./Exercises/Exercise14/MultiStepForm";
 
 function App() {
-  return <Counter />;
+  return <MultiStepForm />;
 }
 
 export default App;
