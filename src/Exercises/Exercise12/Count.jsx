@@ -13,7 +13,7 @@ const Count = () => {
   return (
     <div>
       <h1>Count: {count}</h1>
-      <button disabled={count <= 0} onClick={handleDecrement}>
+      <button disabled={count <== 0} onClick={handleDecrement}>
         Decrement
       </button>
       <button onClick={handleIncrement}>increment</button>
