@@ -1,0 +1,8 @@
+.listStyle {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0 0;
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+}

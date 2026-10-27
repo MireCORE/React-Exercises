@@ -1,0 +1,38 @@
+.itemStyle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 16px;
+  margin: 0 20px 10px;
+  background-color: #f3f4f6;
+  border-radius: 8px;
+  border: 1px solid #e5e7eb;
+}
+.left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.checkbox {
+  width: 18px;
+  height: 18px;
+  accent-color: #16a34a;
+  cursor: pointer;
+}
+.todoItem {
+  font-size: 16px;
+  color: #1f2937;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+.todoItemCompleted {
+  text-decoration: line-through;
+  color: #9ca3af;
+}
+.deleteBtn {
+  border: none;
+  background: none;
+  color: red;
+  cursor: pointer;
+  font-weight: 700;
+}
