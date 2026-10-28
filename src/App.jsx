@@ -1,9 +1,8 @@
-import TodoApp from "./Exercises/Exercise19/components/TodoApp";
-
+import StudentDashboard from "./Exercises/Exercise21/StudentDashboard";
 const App = () => {
   return (
     <div>
-      <TodoApp />
+      <StudentDashboard />
     </div>
   );
 };
