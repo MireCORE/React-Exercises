@@ -107,7 +107,7 @@ export default function StudentDashboard() {
           </div>
 
           <div className="flex items-center justify-end gap-6">
-            {/* Emoji keliya: ma laha functionality */}
+
             <span className="relative text-xl" aria-hidden="true">
               🔔
               <span className="absolute -right-1 -top-1 h-2 w-2 rounded-full bg-rose-500" />

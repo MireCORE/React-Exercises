@@ -1,8 +1,8 @@
-import StudentDashboard from "./Exercises/Exercise21/StudentDashboard";
+import FormChallenge from "./Exercises/Exercise22/formChallange";
 const App = () => {
   return (
     <div>
-      <StudentDashboard />
+      <FormChallenge />
     </div>
   );
 };
