@@ -1,8 +1,8 @@
-import FormVlaidation from "./Exercises/Exercise23/FormVlaidation";
+import StudentRegistrationForm from "./Exercises/Exercise24/StudentRegistration";
 const App = () => {
   return (
     <div>
-      <FormVlaidation />
+      <StudentRegistrationForm />
     </div>
   );
 };
