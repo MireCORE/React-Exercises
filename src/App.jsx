@@ -1,8 +1,8 @@
-import FormChallenge from "./Exercises/Exercise22/formChallange";
+import FormVlaidation from "./Exercises/Exercise23/FormVlaidation";
 const App = () => {
   return (
     <div>
-      <FormChallenge />
+      <FormVlaidation />
     </div>
   );
 };
